@@ -8,9 +8,9 @@ set expandtab
 set shiftwidth=4
 set tabstop=4
 set hidden
-set signcolumn=yes:2
-set relativenumber
-set number
+"set signcolumn=yes:2
+"set relativenumber
+"set number
 set termguicolors
 set undofile
 set spell
